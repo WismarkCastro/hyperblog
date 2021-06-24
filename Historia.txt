@@ -1,2 +1,6 @@
 Esta es la historia Ejempplo
 Para el curso de GIT
+
+Hoy hablaremos de la historia
+
+Y de su maestría
